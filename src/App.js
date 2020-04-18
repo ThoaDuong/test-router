@@ -9,7 +9,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                <Router>
+                <Router basename='/'>
                     <Menu/>
                     <div className="mb-3"></div>
                     <Route path = "/" exact>
