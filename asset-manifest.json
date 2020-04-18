@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-router/static/css/main.34de6062.chunk.css",
-    "main.js": "/test-router/static/js/main.67409b18.chunk.js",
-    "main.js.map": "/test-router/static/js/main.67409b18.chunk.js.map",
+    "main.js": "/test-router/static/js/main.56b94129.chunk.js",
+    "main.js.map": "/test-router/static/js/main.56b94129.chunk.js.map",
     "runtime-main.js": "/test-router/static/js/runtime-main.5606bd89.js",
     "runtime-main.js.map": "/test-router/static/js/runtime-main.5606bd89.js.map",
     "static/js/2.418bc3e4.chunk.js": "/test-router/static/js/2.418bc3e4.chunk.js",
     "static/js/2.418bc3e4.chunk.js.map": "/test-router/static/js/2.418bc3e4.chunk.js.map",
     "index.html": "/test-router/index.html",
-    "precache-manifest.24c6fbf76010842920e5b2531fffee21.js": "/test-router/precache-manifest.24c6fbf76010842920e5b2531fffee21.js",
+    "precache-manifest.33b35cc2610426bf0945c6495bf53dc9.js": "/test-router/precache-manifest.33b35cc2610426bf0945c6495bf53dc9.js",
     "service-worker.js": "/test-router/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/test-router/static/css/main.34de6062.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.5606bd89.js",
     "static/js/2.418bc3e4.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.67409b18.chunk.js"
+    "static/js/main.56b94129.chunk.js"
   ]
 }
