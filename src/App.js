@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Menu from './components/Menu'
-import { HashrRouter as Router, Route} from 'react-router-dom'
+import { HashRouter as Router, Route} from 'react-router-dom'
 import Home from './components/Home'
 import Contact from './components/Contact'
 import About from './components/About'
